@@ -1,0 +1,3 @@
+/Users/ivanzhuravlev/Desktop/tz/infotecs_Task/sqlite_build/CMakeFiles/sqlite.dir
+/Users/ivanzhuravlev/Desktop/tz/infotecs_Task/sqlite_build/CMakeFiles/edit_cache.dir
+/Users/ivanzhuravlev/Desktop/tz/infotecs_Task/sqlite_build/CMakeFiles/rebuild_cache.dir
