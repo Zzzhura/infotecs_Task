@@ -16,3 +16,11 @@ COMMAND: cmake --log-context -S . -B ../sqlite_build > ../logs/cmake_output.log 
 > -B - means destination folder, in our case that's sqlite_build
 > (>) - shell operator to write all output from terminal to specified folder in out case is (../logs/cmake_output.log)
 > 2>&1 - shell operator write both output from terminal, so standart output and error output to our cmake_output.log
+
+
+MAKE
+After we did cmake thing and have the sqlite folder we will have the Makefile that we can actually make and finally get the executable sqlite.exe binary.
+COMMAND: make > ../logs/make_output.log 2>&1
+> make - tool
+> (>) - shell operator to write all output from terminal to specified folder in out case is (../logs/make_output.log)
+> 2>&1 - shell operator write both output from terminal, so standart output and error output to our make_output.log
